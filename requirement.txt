@@ -1,5 +1,6 @@
-This is chat application
+This is a chat application
 
 Emoji
 colors
 vibrant
+Dark mode
